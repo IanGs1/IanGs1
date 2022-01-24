@@ -1,6 +1,6 @@
  # <img width="30" src="./.github/hi.gif" /> Hi, my name is Ian!
 
-### 🔭 I'm a Backend Developer 
+### 🔭 I'm a Student
 
 ### ✨ Take a look at my projects to see what I can do.
 
