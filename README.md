@@ -9,11 +9,8 @@
 ### 🔥 Techs that I use:
 
 <p>
-  <img width="24.1%" height="24.1%" alt="Elixir" src="./.github/elixir.png" />
-  <img width="24.1%" height="24.1%" alt="Phoenix" src="./.github/phoenix.png" />
   <img width="24.1%" height="24.1%" alt="Javascript" src="./.github/javascript.png" />
   <img width="24.1%" height="24.1%" alt="Typescript" src="./.github/typescript.png" />
-
 </p>
 
 ### ☄ Stats
