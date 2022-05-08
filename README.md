@@ -4,7 +4,7 @@
 
 ### ✨ Take a look at my projects to see what I can do.
 
-### 📫 Want to contact me? Send me an email! **goldfeld34@gmail.com**
+### 📫 Want to contact me? Send me an email! **goldfeld35@gmail.com**
 
 ### 🔥 Techs that I use:
 
